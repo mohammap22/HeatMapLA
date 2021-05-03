@@ -1,0 +1,13 @@
+name: heatMapProj
+title: heatMapProj
+username:
+account: mohammap
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3852872
+bundleId: 4503535
+url: https://mohammap.shinyapps.io/heatMapProj/
+when: 1619073734.63204
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|carseat.tree1.pdf|gadm36_USA_1_sp.rds|gadm36_USA_2_sp.rds|heapMap.r
