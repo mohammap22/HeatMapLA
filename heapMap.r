@@ -10,7 +10,7 @@ library(scales)
 library(plotly,warn.conflicts = FALSE)
 library(rgdal)
 library(reshape2)
-library(sf)
+#library(sf)
 library("rgdal")
 
 WRP <- read.csv("data/iterations_labeled_seasonal.csv") #slider data
